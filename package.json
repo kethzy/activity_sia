@@ -1,0 +1,26 @@
+{
+  "name": "cabual.sia",
+  "version": "1.0.0",
+  "description": "activities",
+  "keywords": [
+    "sia"
+  ],
+  "homepage": "https://github.com/kethzy/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/kethzy/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kethzy/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "cabual, jener b.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
